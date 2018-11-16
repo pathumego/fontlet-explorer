@@ -97,7 +97,8 @@
       "target": [
         "deb",
         "AppImage",
-        "zip"
+        "zip",
+        "snap"
       ],
       "category": "Development"
     }
